@@ -16,3 +16,7 @@ This repo contains different text animation using particle JS, three JS, Javascr
 | Name Animation 11| <a href="https://ayush2967.github.io/Name-Animation-11/">Click here !</a>|
 | Name Animation 12| <a href="https://ayush2967.github.io/Name-Animation-12/">Click here !</a>|
 | Name Animation 13| <a href="https://ayush2967.github.io/Name-Animation-13/">Click here !</a>|
+<hr>
+<p align="center">
+  Made By Ayush Jain with ❤️
+  </p>
