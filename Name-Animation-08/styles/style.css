@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Sigmar", cursive;
+}
+
+body {
+  overflow: hidden;
+}
+
+canvas {
+  background: #000;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+input {
+  position: absolute;
+  padding: 10px;
+  margin: 10px;
+  width: calc(100% - 20px);
+  background-color: #413e3e;
+  color: rgb(255, 251, 0);
+  font: small-caps bold 24px/1 sans-serif;
+  border: 0;
+  outline: none;
+  z-index: 1;
+  border-radius: 5px;
+}
+
+::placeholder {
+  color: rgb(255, 251, 0);
+  font: small-caps bold 24px/1 sans-serif;
+}

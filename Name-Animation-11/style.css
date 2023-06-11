@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Bangers',cursive;
+}
+canvas {
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+input {
+    position: absolute;
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px;
+    z-index: 100;
+}
